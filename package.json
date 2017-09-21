@@ -1,8 +1,5 @@
 {
   "name": "angular-seed-advanced",
   "version": "1.0.0",
-  "main": "main.desktop.js",
-  "devDependencies": {
-    "angular-cli-ghpages": "^0.5.1"
-  }
+  "main": "main.desktop.js"
 }
