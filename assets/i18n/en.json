@@ -1,0 +1,15 @@
+{
+    "HOME": "Home",
+    "ABOUT": "About",
+    "ABOUT_REGISTER": "Lots of new features arriving soon.",
+    "ABOUT_FOR_NOW": "Please visit the Events page and indicate your availability.",
+    "ABOUT_ADD": "You want more? Add them yourself!",
+    "ABOUT_REWARD": "For reward, here is a list of awesome computer scientists:",
+    "ADD_BTN_TEXT": "Add",
+    "EVENTS": "Events",
+    "HELLO": "Hello",
+    "INPUT_HINT": "Enter a new computer scientist...",
+    "LOVE_TECH": "I love technology!",
+    "SUCCESS_MSG": "Your deployment of Angular Seed Advanced worked perfectly.",
+    "WELCOME": "Welcome!"
+}

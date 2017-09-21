@@ -1,0 +1,39 @@
+<svg class="ctdd" viewBox="0 0 544 444" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+
+  <title>Layer 1</title>
+            <style type="text/css" >
+                <![CDATA[
+                    .ctddLayerOff {
+                        transition: all 1s ease;
+                        fill:   #ededed;
+                    }
+                    .ctddCircleOff {
+                        display: none;
+                    }
+                    .ctddSliceOff {
+                        display: none;
+                    }
+                ]]>
+            </style>
+  <path id="layer1" class="ctddLayer" d="m215.5,72.5l44.5,-72l48.5,72.5l-93,-0.5z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#e30b18"/>
+  <path id="layer2" class="ctddLayer" d="m172.5,147l41,-69l98.5,0l45,69.5l-184.5,-0.5z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#ea5b0b"/>
+  <path id="layer3" class="ctddLayer" d="m129.5,221l41.5,-68.5l188.5,0l44.5,68.5l-274.5,-1l0,1z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#ffde06"/>
+  <path id="layer4" class="ctddLayer" d="m84,295.5l41.5,-68.5l279.5,0l45,69.5l-366,-1z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#95c121"/>
+  <path id="layer5" class="ctddLayer" d="m41,370.5l42,-69l370.5,0l44,69l-456.5,0z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#39a9e0"/>
+  <path id="layer6" class="ctddLayer" d="m1,444l39,-67.5l461,-1l44,68.5l-544,0z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#a3195c"/>
+  <path fill="#e30b18" stroke="#000000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m256,72.5l0,-64l4.5,-7.75l4.5,7.75l0,64l-9,0z" class="ctddSlice ctddSliceOff" id="slice1" stroke-width="0"/>
+  <path class="ctddSlice ctddSliceOff" id="slice2" d="m256,147l0,-69l9,0l0,69l-9,0z" stroke="#000000" fill="#ea5b0b" stroke-width="0"/>
+  <path class="ctddSlice ctddSliceOff" id="slice3" d="m256,221l0,-68.5l9,0l0,68.5l-9,0z" stroke="#000000" fill="#ffde06" stroke-width="0"/>
+  <path d="m256,295.5l0,-68.5l9,0l0,68.5l-9,0z" stroke="#000000" fill="#95c121" class="ctddSlice ctddSliceOff" id="slice4" stroke-width="0"/>
+  <path class="ctddSlice ctddSliceOff" id="slice5" d="m256,370.5l0,-69l9,0l0,69l-9,0z" stroke="#000000" fill="#39a9e0" stroke-width="0"/>
+  <path class="ctddSlice ctddSliceOff" id="slice6" d="m256,444l0,-67.5l9,0l0,67.5l-9,0z" stroke="#000000" fill="#a3195c" stroke-width="0"/>
+  <ellipse ry="9" rx="9" class="ctddCircle ctddCircleOff" id="circle1" cy="55" cx="260" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" stroke="#e30b18" fill="#ffffff"/>
+  <ellipse ry="9" rx="9" cy="126" cx="260" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" stroke="#ea5b0b" fill="#ffffff" class="ctddCircle ctddCircleOff" id="circle2"/>
+  <ellipse ry="9" rx="9" cy="199" cx="260" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" stroke="#ffde06" fill="#ffffff" class="ctddCircle ctddCircleOff" id="circle3"/>
+  <ellipse class="ctddCircle ctddCircleOff" id="circle4" ry="9" rx="9" cy="272" cx="260" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" stroke="#95c121" fill="#ffffff"/>
+  <ellipse ry="9" rx="9" cy="349" cx="260" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" stroke="#39a9e0" fill="#ffffff" class="ctddCircle ctddCircleOff" id="circle5"/>
+  <ellipse class="ctddCircle ctddCircleOff" id="circle6" ry="9" rx="9" cy="425" cx="260" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" stroke="#a3195c" fill="#ffffff"/>
+ </g>
+</svg>

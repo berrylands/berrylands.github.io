@@ -1,0 +1,243 @@
+<svg viewBox="0 0 1250 550" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" class="ctdd">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+
+ <g>
+  <title/>
+  <style type="text/css" id="maincss">
+   <![CDATA[
+                    .ctddLayerOff {
+                        transition: all 1s ease;
+                        fill:   #ededed;
+                    }
+                    .ctddCircleOff {
+                        display: none;
+                    }
+                    .ctddSliceOff {
+                        display: none;
+                    }
+                    .ctddLabelOff {
+                        display: none;
+                    }
+                    .ctddLeftLabel {
+                        display: none;
+                    }
+                    .prin {
+                        opacity: 1;
+                    }
+                    .prin:hover {
+                        opacity: 1;
+                        #transition: all 0.75s ease;
+                    }
+                ]]>
+  </style>
+  <rect fill="#e5e5e5" stroke="#a0195b" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="223" y="12" width="363" height="67" id="svg_129"/>
+  <path fill="#c0504d" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m361.5,148.94444l44.5,-72l48.5,72.5l-93,-0.5z" class="ctddLayer" id="layer1"/>
+  <path fill="#e46c0b" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m318.5,223.44446l41,-69l98.5,0l45,69.5l-184.5,-0.5z" class="ctddLayer" id="layer2"/>
+  <path fill="#ffff02" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m275.5,297.44446l41.5,-68.5l188.5,0l44.5,68.5l-274.5,-1l0,1z" class="ctddLayer" id="layer3"/>
+  <path fill="#95c121" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m230,371.94446l41.5,-68.5l279.5,0l45,69.5l-366,-1z" class="ctddLayer" id="layer4"/>
+  <path fill="#39a9e0" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m187,446.94446l42,-69l370.5,0l44,69l-456.5,0z" class="ctddLayer" id="layer5"/>
+  <path fill="#a0195b" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m147,520.44446l39,-67.5l461,-1l44,68.5l-544,0z" class="ctddLayer" id="layer6"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" y="207.2437" x="361.06176" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffffff" transform="matrix(0.531852, 0, 0, 0.531852, 214.478, 85.2784)" stroke="#a0195b" id="svg_131" class="ctddLabel">DESCRIPTION</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" y="628.41842" x="353.53046" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffffff" transform="matrix(0.531852, 0, 0, 0.531852, 214.478, 85.2784)" stroke="#a0195b" id="svg_134" class="ctddLabel">USAGE &amp; SHARING</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" id="svg_130" y="83.70523" x="361.56754" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffffff" transform="matrix(0.531852, 0, 0, 0.531852, 214.478, 85.2784)" stroke="#a0195b" class="ctddLabel">OWNER</text>
+  <path stroke-width="0" id="slice1" class="ctddSlice ctddSliceOff" d="m402,148.94444l0,-64l4.5,-7.75l4.5,7.75l0,64l-9,0z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#000000" fill="#c0504d"/>
+  <path stroke-width="0" fill="#e46c0b" stroke="#000000" d="m402,223.44446l0,-69l9,0l0,69l-9,0z" id="slice2" class="ctddSlice ctddSliceOff"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" y="350.14051" x="357.29091" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#333333" transform="matrix(0.531852, 0, 0, 0.531852, 214.478, 85.2784)" stroke="#a0195b" id="svg_132" font-weight="bold" class="ctddLabel">QUALITY</text>
+  <path stroke-width="0" fill="#ffff02" stroke="#000000" d="m402,297.44446l0,-68.5l9,0l0,68.5l-9,0z" id="slice3" class="ctddSlice ctddSliceOff"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" y="489.27688" x="357.29091" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffffff" transform="matrix(0.531852, 0, 0, 0.531852, 214.478, 85.2784)" stroke="#a0195b" id="svg_133" class="ctddLabel">ACCESS</text>
+  <path stroke-width="0" id="slice4" class="ctddSlice ctddSliceOff" fill="#95c121" stroke="#000000" d="m402,371.94446l0,-68.5l9,0l0,68.5l-9,0z"/>
+  <path stroke-width="0" fill="#39a9e0" stroke="#000000" d="m402,446.94446l0,-69l9,0l0,69l-9,0z" id="slice5" class="ctddSlice ctddSliceOff"/>
+  <path stroke-width="0" fill="#a0195b" stroke="#000000" d="m402,520.44446l0,-67.5l9,0l0,67.5l-9,0z" id="slice6" class="ctddSlice ctddSliceOff"/>
+  <ellipse fill="#ffffff" stroke="#c0504d" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="406.5" cy="127.44445" id="circle1" class="ctddCircle ctddCircleOff" rx="9" ry="9"/>
+  <ellipse id="circle2" class="ctddCircle ctddCircleOff" fill="#ffffff" stroke="#e46c0b" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="406.5" cy="198.44445" rx="9" ry="9"/>
+  <ellipse id="circle3" class="ctddCircle ctddCircleOff" fill="#ffffff" stroke="#ffff02" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="406.5" cy="271.44445" rx="9" ry="9"/>
+  <ellipse fill="#ffffff" stroke="#95c121" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="406.5" cy="344.44445" rx="9" ry="9" id="circle4" class="ctddCircle ctddCircleOff"/>
+  <ellipse id="circle5" class="ctddCircle ctddCircleOff" fill="#ffffff" stroke="#39a9e0" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="406.5" cy="421.44445" rx="9" ry="9"/>
+  <ellipse fill="#ffffff" stroke="#a0195b" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="406.5" cy="497.44445" rx="9" ry="9" id="circle6" class="ctddCircle ctddCircleOff"/>
+  <g class="prin prin-owner" id="svg_115">
+  <animateTransform attributeName="transform" attributeType="XML"
+                    type="translate" from="0" to="300" start="0.25" dur="2s" fill="freeze"  />
+   <rect id="svg_37" stroke="#c0504d" ry="15" rx="15" fill="#ffffff" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="148.49999" y="80" width="551" height="68"/>
+   <text class="ctddLeftLabel" fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="132.8171" y="79.60551" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" font-weight="bold" transform="matrix(0.675603, 0, 0, 0.675603, -8.22651, 67.9613)" stroke="#a0195b" id="svg_61">
+    <title>ownership</title>Ownership</text>
+   <g id="svg_90">
+    <rect id="svg_42" height="51" width="94" y="87.5" x="237.99999" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#a0195b" fill="#c0504d"/>
+    <text id="svg_65" fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="348.63756" y="166.32174" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold">Ownership</text>
+   </g>
+   <g id="svg_91">
+    <rect id="svg_39" height="51" width="94" y="87.5" x="374.99999" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#a0195b" fill="#c0504d"/>
+    <text id="svg_66" fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="581.7609" y="166.32174" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold">Community</text>
+   </g>
+   <g id="svg_92">
+    <rect id="svg_40" height="51" width="94" y="87.5" x="513.99999" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#a0195b" fill="#c0504d"/>
+    <text id="svg_67" fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="816.56138" y="166.32174" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold">Workflow</text>
+   </g>
+  </g>
+  <g class="prin prin-description" id="svg_116">
+  <animateTransform attributeName="transform" attributeType="XML"
+                    type="translate" from="0" to="352" start="0.25" dur="2s" fill="freeze"  />
+   <rect id="svg_30" stroke="#e46c0b" ry="15" rx="15" fill="#ffffff" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="146.49999" y="155" width="551" height="68"/>
+   <text class="ctddLeftLabel" fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="131.33694" y="186.17703" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" font-weight="bold" transform="matrix(0.675603, 0, 0, 0.675603, -8.22651, 67.9613)" stroke="#a0195b" id="svg_60">
+    <title>description</title>Description</text>
+   <g id="svg_93">
+    <rect id="svg_31" height="51" width="94" y="162.5" x="158.99999" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#a0195b" fill="#e46c0b"/>
+    <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="219.47382" y="274.88897" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_2">Data</text>
+    <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="219.49949" y="309.32196" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_5">Discovery</text>
+   </g>
+   <g id="svg_94">
+    <rect id="svg_35" height="51" width="94" y="162.5" x="265.99999" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#a0195b" fill="#e46c0b"/>
+    <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="397.25133" y="274.88897" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_7">Reference</text>
+    <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="397.277" y="309.32196" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_13">Data</text>
+   </g>
+   <g id="svg_95">
+    <rect id="svg_32" height="51" width="94" y="162.5" x="372.99999" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#a0195b" fill="#e46c0b"/>
+    <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="576.70599" y="274.88897" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_22">Data</text>
+    <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="576.73166" y="309.32196" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_27">Catalogue</text>
+   </g>
+   <g id="svg_96">
+    <rect id="svg_33" height="51" width="94" y="162.5" x="481.99999" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#a0195b" fill="#e46c0b"/>
+    <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="762.86923" y="274.88897" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_29">Business</text>
+    <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="762.8949" y="309.32196" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_38">Glossary</text>
+   </g>
+   <g id="svg_97">
+    <rect id="svg_34" height="51" width="94" y="162.5" x="590.99999" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#a0195b" fill="#e46c0b"/>
+    <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="942.32389" y="274.88897" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_41">Data</text>
+    <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="942.34956" y="309.32196" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_43">Architecture</text>
+   </g>
+  </g>
+  <g class="prin prin-quality" id="svg_117">
+  <animateTransform attributeName="transform" attributeType="XML"
+                    type="translate" from="0" to="400" start="0.25" dur="2s" fill="freeze"  />
+   <rect id="svg_23" stroke="#595959" ry="15" rx="15" fill="#ffffff" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="145.5" y="230" width="551" height="68"/>
+   <text class="ctddLeftLabel" fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="128.37662" y="297.18904" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" font-weight="bold" transform="matrix(0.675603, 0, 0, 0.675603, -8.22651, 67.9613)" stroke="#a0195b" id="svg_59">
+    <title>quality</title>Quality</text>
+   <g id="svg_98">
+    <rect id="svg_24" height="51" width="94" y="237.5" x="212" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#ffff02" fill="#ffff02"/>
+    <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="310.03972" y="400.67495" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_47">Business</text>
+    <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="310.06539" y="435.10794" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_48">Rules</text>
+   </g>
+   <g id="svg_99">
+    <rect id="svg_28" height="51" width="94" y="237.5" x="319" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#ffff02" fill="#ffff02"/>
+    <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="486.14009" y="400.67494" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_49">Data</text>
+    <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="486.16576" y="435.10793" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_52">Quality</text>
+   </g>
+   <g id="svg_100">
+    <rect id="svg_25" height="51" width="94" y="237.5" x="427" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#ffff02" fill="#ffff02"/>
+    <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="668.94599" y="402.35593" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_53">Data</text>
+    <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="668.97166" y="436.78892" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_54">Matching</text>
+   </g>
+   <g id="svg_101">
+    <rect id="svg_26" height="51" width="94" y="237.5" x="537" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#ffff02" fill="#ffff02"/>
+    <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="851.75494" y="400.67878" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_55">Data</text>
+    <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="851.78061" y="435.11177" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_57">Stewardship</text>
+   </g>
+  </g>
+  <g class="prin prin_access" id="svg_121">
+  <animateTransform attributeName="transform" attributeType="XML"
+                    type="translate" from="0" to="445" start="0.25" dur="2s" fill="freeze"  />
+   <rect id="svg_16" stroke="#92d050" ry="15" rx="15" fill="#ffffff" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="146" y="304" width="551" height="68"/>
+   <g id="svg_102">
+    <rect id="svg_17" height="51" width="94" y="311.5" x="158.49999" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#92d050" fill="#92d050"/>
+    <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="217.79363" y="524.78761" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_68">Data</text>
+    <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="217.8193" y="559.2206" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_69">Security</text>
+   </g>
+   <g id="svg_103">
+    <rect id="svg_21" height="51" width="94" y="311.5" x="265.49999" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#92d050" fill="#92d050"/>
+    <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="397.24829" y="524.78761" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_70">User</text>
+    <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="397.27396" y="559.2206" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_71">Management</text>
+   </g>
+   <g id="svg_104">
+    <rect id="svg_18" height="51" width="94" y="311.5" x="372.49999" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#92d050" fill="#92d050"/>
+    <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="578.39982" y="541.99689" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_74">Masking</text>
+   </g>
+   <g id="svg_105">
+    <rect id="svg_19" height="51" width="94" y="311.5" x="481.49999" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#92d050" fill="#92d050"/>
+    <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="759.53165" y="542.00017" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_76">Audit Log</text>
+   </g>
+   <g id="svg_106">
+    <rect id="svg_20" height="51" width="94" y="311.5" x="590.49999" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#92d050" fill="#92d050"/>
+    <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="943.98968" y="524.79089" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_72">Data</text>
+    <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="944.01535" y="559.22388" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_73">Lifecycle</text>
+   </g>
+   <g id="svg_118">
+    <text class="ctddLeftLabel" fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="129.4285" y="404.49671" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" font-weight="bold" transform="matrix(0.675603, 0, 0, 0.675603, -8.22651, 67.9613)" stroke="#a0195b" id="svg_56">
+     <title>access</title>Access</text>
+   </g>
+  </g>
+  <g class="prin prin-usage" id="svg_122">
+  <animateTransform attributeName="transform" attributeType="XML"
+                    type="translate" from="0" to="495" start="0.25" dur="2s" fill="freeze"  />
+   <rect id="svg_9" stroke="#01b0f0" ry="15" rx="15" fill="#ffffff" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="144" y="379" width="551" height="68"/>
+   <g id="svg_107">
+    <rect id="svg_10" height="51" width="94" y="386.5" x="210.49999" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#a0195b" fill="#01b0f0"/>
+    <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="305.02668" y="669.46001" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_77">Integration</text>
+   </g>
+   <g id="svg_108">
+    <rect id="svg_14" height="51" width="94" y="386.5" x="318.49999" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#a0195b" fill="#01b0f0"/>
+    <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="487.81199" y="650.56887" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_78">Data</text>
+    <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="487.83766" y="685.00186" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_79">Extract</text>
+   </g>
+   <g id="svg_109">
+    <rect id="svg_11" height="51" width="94" y="386.5" x="426.49999" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#a0195b" fill="#01b0f0"/>
+    <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="670.62093" y="648.89172" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_80">Compliance</text>
+    <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="670.6466" y="683.32471" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_81">Monitoring</text>
+   </g>
+   <g id="svg_110">
+    <rect id="svg_12" height="51" width="94" y="386.5" x="535.49999" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#a0195b" fill="#01b0f0"/>
+    <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="850.07559" y="652.24601" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_82">Usage</text>
+    <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="850.10126" y="686.679" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_83">Governance</text>
+   </g>
+   <g class="ctddLeftLabel" id="svg_119">
+    <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="122.46583" y="500.00256" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" font-weight="bold" transform="matrix(0.675603, 0, 0, 0.675603, -8.22651, 67.9613)" stroke="#a0195b" id="svg_36">Usage</text>
+    <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="116.55115" y="532.51938" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" font-weight="bold" transform="matrix(0.675603, 0, 0, 0.675603, -8.22651, 67.9613)" stroke="#a0195b" id="svg_44">&amp; Sharing</text>
+   </g>
+  </g>
+  <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" y="763.79434" x="361.05135" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffffff" transform="matrix(0.531852, 0, 0, 0.531852, 214.478, 85.2784)" stroke="#a0195b" id="svg_135" class="ctddLabel">IMPLEMENTATION &amp; CONTROL</text>
+  <g class="prin prin-implementation" id="svg_123">
+  <animateTransform attributeName="transform" attributeType="XML"
+                    type="translate" from="0" to="545" start="0.25" dur="2s" fill="freeze"  />
+   <rect stroke="#a0195b" ry="15" rx="15" fill="#ffffff" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="143" y="453" width="551" height="68" id="svg_1"/>
+   <g id="svg_111">
+    <rect height="51" width="94" y="460.5" x="232.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#a0195b" fill="#a0195b" id="svg_6"/>
+    <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="341.90026" y="773.00055" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_84">Analytics &amp;</text>
+    <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="341.92593" y="807.43354" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_85">Reporting</text>
+   </g>
+   <g id="svg_112">
+    <rect height="51" width="94" y="460.5" x="369.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#a0195b" fill="#a0195b" id="svg_3"/>
+    <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="573.3701" y="791.89169" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_88">Consent</text>
+   </g>
+   <g id="svg_113">
+    <rect height="51" width="94" y="460.5" x="508.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#a0195b" fill="#a0195b" id="svg_4"/>
+    <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="804.79265" y="774.67769" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_86">Comms</text>
+    <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="804.81832" y="809.11068" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_87">Management</text>
+   </g>
+   <g class="ctddLeftLabel" id="svg_120">
+    <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="125.4088" y="611.04402" id="svg_8" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" font-weight="bold" transform="matrix(0.675603, 0, 0, 0.675603, -8.22651, 67.9613)" stroke="#a0195b">Implementation</text>
+    <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="119.49413" y="643.56083" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" font-weight="bold" transform="matrix(0.675603, 0, 0, 0.675603, -8.22651, 67.9613)" stroke="#a0195b" id="svg_15">&amp; Control</text>
+   </g>
+  </g>
+  <text font-weight="bold" id="svg_136" class="ctddLabel" stroke="#a0195b" transform="matrix(0.531852, 0, 0, 0.531852, 214.478, 85.2784)" fill="#333333" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="353.54088" y="-67.26343" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve">GOVERNANCE              ORGANISATIONAL STRATEGY</text>
+  <g id="svg_114" class="prin prin-governance">
+  <animateTransform attributeName="transform" attributeType="XML"
+                    type="translate" from="0" to="225" start="0.25" dur="2s" fill="freeze"  />
+   <rect id="svg_45" stroke="#595959" ry="15" rx="15" fill="#ffffff" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="147" y="12" width="551" height="68"/>
+   <text class="ctddLeftLabel" fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="135.77742" y="-25.48585" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" font-weight="bold" transform="matrix(0.675603, 0, 0, 0.675603, -8.22651, 67.9613)" stroke="#a0195b" id="svg_62">Governance</text>
+   <g id="svg_75">
+    <title>gov_policy_procedures</title>
+    <rect id="svg_46" height="51" width="94" y="19.5" x="289.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#595959" fill="#595959"/>
+    <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="439.17776" y="32.93712" id="svg_63" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold">Policy &amp;</text>
+    <text fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="439.20343" y="67.37011" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold" id="svg_64">Procedures</text>
+    <g id="svg_126" class="badge">
+     <rect id="svg_124" height="16" width="23" y="16" x="373" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#a0195b" fill="#fc0021" rx="15" ry="15"/>
+     <text font-weight="bold" stroke="#a0195b" transform="matrix(0.47541, 0, 0, 0.47541, 26.4016, 28.3279)" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" id="svg_125" y="-0.37931" x="752.1724" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffffff">12</text>
+    </g>
+   </g>
+   <g id="svg_89">
+    <rect id="svg_50" height="51" width="94" y="19.5" x="456.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#595959" fill="#595959"/>
+    <text id="svg_51" fill="#ffffff" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="719.28689" y="50.59865" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.596251, 0, 0, 0.596251, 75.6336, 19.5818)" stroke="#595959" font-weight="bold">Compliance</text>
+   </g>
+  </g>
+  <path fill="#a0195b" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m397.55664,520.71899l8.89041,-12.09595l8.89044,12.09595l-4.44522,0l0,12.15411l-8.89041,0l0,-12.15411l-4.44522,0z" id="svg_127" transform="rotate(180, 406.447, 520.748)" stroke="#a0195b" class="ctddSlice ctddSliceOff purple_arrow"/>
+  <ellipse fill="#c0504d" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="406.625" cy="77.375" id="svg_128" rx="8.375" ry="8.375" stroke="#a0195b" class="ctddSlice ctddSliceOff reb_blob"/>
+ </g>
+</svg>
